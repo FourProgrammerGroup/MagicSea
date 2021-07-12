@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{678BDE9E-49C2-FA0B-12D3-04B15F21FC08}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MagicSea",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

@@ -2,7 +2,24 @@
 
 MagicSea Game From War3 Map
 
+=======
+## 目录结构
 
+- **Doc/**
+- **UE4_Project/**
+  - **Config/**
+  - **Content/**
+    - **Blueprints/**
+    - **Effects/**
+    - **Levels/**
+    - **Models/**
+    - **Textures/**
+  - **Source/**
+  - **Plugins/**
+  - MagicSea.sln
+  - MagicSea.uproject
+- README.md
+- 
 
 ```mermaid
 graph TD
@@ -15,4 +32,3 @@ graph TD
 	BattleBoss --杀死所有BOSS--> GameWin["游戏胜利"]
 	BattleBoss --杀不死Boss--> GameOver["游戏失败"]
 ```
-
